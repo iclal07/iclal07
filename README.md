@@ -1,5 +1,5 @@
 
-<div style="width:100%;height:0;padding-bottom:38%;position:left;"><iframe src="https://giphy.com/embed/3ohhwEBrUKal8ebBni" width="400" height="200"  frameBorder="0" class="giphy-embed" ></iframe></div>
+<div style="width:100%;height:0;padding-bottom:38%;position:left;"><img src="https://giphy.com/embed/3ohhwEBrUKal8ebBni" width="400" height="200" class="giphy-embed" /></div>
 <!-- <p><a href="https://giphy.com/gifs/dog-girl-angry-3ohhwEBrUKal8ebBni" ></a> </p> -->
 
 # Hi there , I' am İCLAL :blush: :ok_woman:
