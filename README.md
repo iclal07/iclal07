@@ -3,13 +3,13 @@
 <!-- <p><a href="https://giphy.com/gifs/dog-girl-angry-3ohhwEBrUKal8ebBni" ></a> </p> -->
 
 # Hi there , I' am İCLAL :blush: :ok_woman:
-## Computer Science Students @ ALKÜ
-### Rugby Player @ Alanya Belediye SK :rugby_football:
+## Computer Science Students @ ALKÜ (Graduate)
+###
 
 
 <br/>
 
-:computer: I am working on NLP projects
+:computer: I am working on Computer Vision and NLP projects
 
 :cherry_blossom: I'm interest in Machine Learning, Data Science, NLP 
 
