@@ -3,7 +3,7 @@
 <!-- <p><a href="https://giphy.com/gifs/dog-girl-angry-3ohhwEBrUKal8ebBni" ></a> </p> -->
 
 # Hi there , I' am İCLAL :blush: :ok_woman:
-## Computer Science Students @ ALKÜ (Graduate)
+## Computer Engineer @ ALKÜ (Graduate)
 ###
 
 
