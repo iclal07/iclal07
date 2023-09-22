@@ -1,17 +1,16 @@
 
-<div style="width:100%;height:0;padding-bottom:38%;position:left;"><img src="https://i.giphy.com/media/ZVik7pBtu9dNS/giphy.webp" width="400" height="200" class="giphy-embed" /></div>
+<div style="width:100%;height:0;padding-bottom:38%;position:left;"><img src="[https://i.giphy.com/media/ZVik7pBtu9dNS/giphy.webp](https://media.tenor.com/FP3KLUuiKOkAAAAC/computer-typing.gif)" width="400" height="200" class="giphy-embed" /></div>
 <!-- <p><a href="https://giphy.com/gifs/dog-girl-angry-3ohhwEBrUKal8ebBni" ></a> </p> -->
 
 # Hi there , I' am İCLAL :blush: :ok_woman:
-## Computer Engineer @ ALKÜ (Graduate)
-###
+## AI Engineer
 
 
 <br/>
 
 :computer: I am working on Computer Vision and NLP projects
 
-:cherry_blossom: I'm interest in Machine Learning, Data Science, NLP 
+:cherry_blossom: I'm interest in Machine Learning, Data Science
 
 :email: iclal.dev@gmail.com
 
