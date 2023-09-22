@@ -1,5 +1,5 @@
 
-<div style="width:100%;height:0;padding-bottom:38%;position:left;"><img src="https://i.giphy.com/media/ZVik7pBtu9dNS/giphy.webp" width="400" height="200" class="giphy-embed" /></div>
+<div style="width:100%;height:0;padding-bottom:38%;position:left;"><img src="[https://i.giphy.com/media/ZVik7pBtu9dNS/giphy.webp](https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.duhocakina.edu.vn%2Fanime-typing-gif-ac58xpi6%2F&psig=AOvVaw0locNafqamRQmQwwn5toVd&ust=1695472926676000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMCD4_2evoEDFQAAAAAdAAAAABAJ)" width="400" height="200" class="giphy-embed" /></div>
 
 # Hi there , I' am ICLAL :blush: :ok_woman:
 ### AI Engineer
