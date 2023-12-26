@@ -1,4 +1,6 @@
-<div style="width:100%;height:0;padding-bottom:38%;position:left;"><iframe src="https://giphy.com/embed/3ohhwEBrUKal8ebBni" width="400" height="200"  frameBorder="0" class="giphy-embed" ></iframe></div><p><a href="https://giphy.com/gifs/dog-girl-angry-3ohhwEBrUKal8ebBni" ></a> </p>
+
+<iframe src="https://giphy.com/embed/jTNG3RF6EwbkpD4LZx" width="480" height="268" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/gptv-code-coding-hacking-jTNG3RF6EwbkpD4LZx">via GIPHY</a></p>
+
 
 # Hi there , I' am ICLAL :blush: :ok_woman:
 ### AI Engineer
