@@ -1,36 +1,25 @@
+<h1 align="center">Hi 👋, I'm İclal</h1>
+<h3 align="center">A passionate AI/ ML development from Turkey</h3>
 
-<iframe src="https://giphy.com/embed/jTNG3RF6EwbkpD4LZx" width="480" height="268" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/gptv-code-coding-hacking-jTNG3RF6EwbkpD4LZx">via GIPHY</a></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iclal07&label=Profile%20views&color=0e75b6&style=flat" alt="iclal07" /> </p>
 
+- 🔭 I’m currently working on **NLP, LLM, Gen AI**
 
-# Hi there , I' am ICLAL :blush: :ok_woman:
-### AI Engineer
+- 📝 I regularly write articles on [https://medium.com/@iclalcetin](https://medium.com/@iclalcetin)
 
+- 📫 How to reach me **iclal.cetin.s.e@gmail.com**
 
-:computer: I am working on Computer Vision and NLP projects
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/iclalcetin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iclalcetin" height="30" width="40" /></a>
+<a href="https://kaggle.com/claletin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="claletin" height="30" width="40" /></a>
+<a href="https://medium.com/@iclalcetin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@iclalcetin" height="30" width="40" /></a>
+<a href="https://discord.gg/iclal.cetin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="iclal.cetin" height="30" width="40" /></a>
+</p>
 
-:cherry_blossom: I'm interest in Machine Learning, Data Science
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-:email: iclal.dev@gmail.com
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iclal07&show_icons=true&locale=en&layout=compact" alt="iclal07" /></p>
 
-
-
-
-### Reach out to me :
-
-
-
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" align = "left" />][linkedin]
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/twitter.svg" align = "left" />][twitter]
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/instagram.svg" align = "left" />][instagram]
-
-
-[linkedin]:https://www.linkedin.com/in/iclalcetin/
-
-[twitter]:https://twitter.com/e_iclal
-
-[instagram]:https://www.instagram.com/iclal.cetin/
-
-
-<br />
-<br />
-<br />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iclal07&show_icons=true&locale=en" alt="iclal07" /></p>
