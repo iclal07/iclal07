@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@iclalcetin](https://medium.com/@iclalcetin)
 
-- 📫 How to reach me **iclal.cetin.s.e@gmail.com**
+- 📫 Connect me via: **iclal.cetin.s.e@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
