@@ -1,5 +1,5 @@
 <h1 align="center">Hello 💖, I'm İclal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate AI/ML development from Türkiye 🇹🇷</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iclal07&label=Profile%20views&color=0e75b6&style=flat" alt="iclal07" /> </p>
 
