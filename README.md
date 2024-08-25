@@ -1,6 +1,8 @@
 <h1 align="center">Hello 💖, I'm İclal</h1>
 <h3 align="center">A passionate AI/ML development from Türkiye 🇹🇷</h3>
 
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iclal07&label=Profile%20views&color=0e75b6&style=flat" alt="iclal07" /> </p>
 
 
@@ -18,3 +20,5 @@
 
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=iclal07&" alt="iclal07" /></p>
+
+(https://images.app.goo.gl/sZKeTdAqb5nQ5fhTA.gif)
