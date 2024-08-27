@@ -21,4 +21,3 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=iclal07&" alt="iclal07" /></p>
 
-(https://images.app.goo.gl/sZKeTdAqb5nQ5fhTA.gif)
