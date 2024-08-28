@@ -21,7 +21,4 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=iclal07&" alt="iclal07" /></p>
 
-'''
-print("hello i am İclal")
 
-'''
